@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 .coverage
+build/
+staged/
+*.zip
+app.log
