@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 .coverage
+.env
 build/
 staged/
 *.zip
